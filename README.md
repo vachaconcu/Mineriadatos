@@ -12,12 +12,17 @@ Aquí se pueden encontrar:
 # Bibliografía usada: 
 
 *Conjunto de datos* 
- @inproceedings{zhifei2017cvpr,
- title={Age Progression/Regression by Conditional Adversarial Autoencoder},
- author={Zhang, Zhifei, Song, Yang, and Qi, Hairong},
- booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
- year={2017},
- organization={IEEE}
+
+Yang Song & Zhifei Zhang (2017). UTK FACE DATASET.
+
+*Modelos* 
+
+[1] Montenegro A & Montenegro D. 2020. Curso Minería de Datos, Universidad Nacional de Colombia. Recuperado en junio de 2020. Disponible en https://bit.ly/2V4eXoa 
+
+[2] Andrew Ng,Kian Katanforoosh & Younes Bensouda Mourri. Convolutional Neural Networks. Plataforma coursera.
+
+[3] Kaiming He, Xiangyu Zhang, Shaoqing Ren, & Jian Sun. 2016. Identity Mappings in Deep Residual Networks. Microsoft Research
+
  
  
 
