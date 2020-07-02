@@ -10,6 +10,8 @@ Aquí se pueden encontrar:
 
 *Raza_Primera_Final.ipynb* y *Raza_Segunda_Final.ipynb*; son los códigos necesarios para generar la arquitectura de un modelo ResNet v2 para identificación de raza; no se comentan estos códigos ya que su arquitectura es muy similar a la de sexo. 
 
+*Modelos*; aquí se cargan los pesos finales obtenidos y se usan los modelos finales para mostrar con ejemplos como funciona el proyecto
+
 # Bibliografía usada: 
 
 *Conjunto de datos* 
