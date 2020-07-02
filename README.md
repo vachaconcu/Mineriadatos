@@ -4,7 +4,7 @@ Este proyecto consiste en la identifiación de sexo y género a partir de imagen
 
 Aquí se pueden encontrar: 
 
-*CargaDatos*, *Limpieza Base*,*Codificación One-Hot*; son los códigos necesarios para realizar la correcta carga de datos (Imagenes a tensores), limpieza de datos(Eliminación de imagenes mal etiquetadas) y codificación One-Hot, respectivamente.  
+*CargaDatos.ipynb*, *Limpieza_total.ipynb*,*CodificaciónOne-Hot.ipynb*; son los códigos necesarios para realizar la correcta carga de datos (Imagenes a tensores), limpieza de datos(Eliminación de imagenes mal etiquetadas) y codificación One-Hot, respectivamente.  
 
 *Sexo_Primera_Final.ipynb* y *Sexo_Segunda_Final.ipynb* ; son los códigos necesarios para generar la arquitectura de un modelo ResNet v2 para identificación de sexo; aquí se encuentran consignadas las explicaciones de cada parte del código en español. 
 
