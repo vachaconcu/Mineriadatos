@@ -12,6 +12,12 @@ Aquí se pueden encontrar:
 
 *Modelos*; aquí se cargan los pesos finales obtenidos y se usan los modelos finales para mostrar con ejemplos como funciona el proyecto
 
+*ModeloSexo.h5* y *ModeloRaza.h5* son los modelos finales obtenidos. 
+
+# Proyecto realizado por:
+
+Brayan Fabián Perez Cruz y Valentina Chacón Cuadros
+
 # Bibliografía usada: 
 
 *Conjunto de datos* 
